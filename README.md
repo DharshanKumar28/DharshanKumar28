@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DharshanKumar28
 - 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
