@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DharshanKumar28
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Dharshan Kumar
+- 👀 I’m interested in learning new technologies and try to build the same
+- 🌱 I’m currently learning mern stack
 - 📫 How to reach me ...
 
 <!---
