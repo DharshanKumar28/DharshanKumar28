@@ -1,55 +1,53 @@
-# Hi there, I'm [Your Name] 👋
+# Hey there! I'm an Aspiring Data Engineer 🚀
 
-I am a Full-Stack Developer and Software Engineer focused on building robust backend architectures, scalable web applications, and integrating intelligent machine learning workflows into production systems. 
-
-Currently finalizing my B.Tech in Information Technology and open to software engineering and data engineering opportunities.
-
+A highly driven engineer focusing on distributed systems, large-scale data pipelines, and big data architecture. I love bridging the gap between massive data streams and high-throughput systems to build reliable, production-grade infrastructure.
 ---
 
-### 🚀 What I Do
-* **Backend & System Design:** Architecting secure, asynchronous, and scalable APIs using Node.js, Express, and FastAPI.
-* **Full-Stack Development:** Building dynamic, state-driven interfaces (React) backed by structured database design (MongoDB, PostgreSQL).
-* **Applied Machine Learning:** Training and optimizing ensemble models (XGBoost, ExtraTrees, SVC) and deploying them via production-ready web interfaces or microservices.
+### 🛠️ Core Tech Stack
 
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), Python, C++, SQL, Bash |
-| **Frontend** | React.js, Redux, HTML5, CSS3, TailwindCSS |
-| **Backend & APIs** | Node.js, Express.js, FastAPI, RESTful APIs, Async Task Queues |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
-| **ML & Data** | Scikit-Learn, XGBoost, Pandas, NumPy, Streamlit |
-| **Tools & DevOps** | Git, GitHub Actions, Linux CLI, Google Colab, Postman, Vercel/Render |
+| **Languages** | Python, JavaScript (ES6+), SQL, C/C++, Java |
+| **Data Engineering & Big Data** | Apache Spark, HDFS, Apache Zeppelin, Distributed Architectures |
+| **Backend & Databases** | Node.js, Express.js, React, Flask, RESTful APIs, MongoDB, PostgreSQL |
+| **Machine Learning & AI** | Scikit-learn, XGBoost, SVC, ExtraTrees, Deep Learning, Transfer Learning, SHAP (XAI) |
+| **Developer Tools & DevOps** | Git, Docker, Vercel, Streamlit, Linux/Unix Command Line |
 
 ---
 
-### 💻 Featured Projects
+### 📂 Key Projects
 
-#### 🛡️ [Spam & Phishing Detection System](https://github.com/yourusername/your-repo-link)
-An end-to-end machine learning application built to classify malicious communications using ensemble classifiers.
-* **Stack:** Python, Scikit-Learn (SVC, ExtraTrees, XGBoost), Streamlit.
-* **Core Impact:** Achieved high precision filtering on a 5.5k message dataset; built an intuitive UI for real-time inference.
+#### 🚄 [Urban Mobility Analytics Pipeline](https://github.com/yourusername/urban-mobility-pipeline)
+*   **Tech Stack:** Apache Spark, HDFS, Apache Zeppelin, Distributed Architecture
+*   Engineered a distributed spatial-temporal analytics pipeline utilizing HDFS and Apache Spark to process a massive **4.5M+ instance dataset**, significantly reducing query latency.
+*   Deployed an interactive Apache Zeppelin dashboard to visualize real-time transit telemetry and extract actionable urban pattern insights.
 
-#### 🛒 [Custom Jersey Inventory & Management Platform](https://github.com/yourusername/your-repo-link)
-A production-ready full-stack catalog and logistics dashboard built for a transport and merchandise workflow.
-* **Stack:** MongoDB, Express.js, React, Node.js (MERN), Multer.
-* **Core Impact:** Implemented secure administrative image upload pipelines, dynamic inventory state tracking, and direct customer communication channels.
+#### 🛡️ [Phishing Detection System & XAI](https://github.com/yourusername/phishing-detection-xai)
+*   **Tech Stack:** Python, Flask, Stacking Ensemble Models, SHAP, Scikit-learn
+*   Benchmarked 14+ classifiers to engineer a Stacking Ensemble model trained on an 11k-instance dataset, achieving an exceptional **95.32% accuracy rate**.
+*   Integrated SHAP (Explainable AI) for model transparency and deployed the zero-latency classification model via a Flask web app for real-time threat telemetry.
+
+#### 🏗️ [Rivanomedia Backend Infrastructure](https://github.com/yourusername/rivanomedia-backend)
+*   **Tech Stack:** Node.js, Express.js, MongoDB, Vercel, RESTful APIs
+*   Engineered a secure backend architecture with custom RESTful APIs to centralize campaign data and optimize high-throughput routing.
+*   Designed a scalable MongoDB schema with role-based access control (RBAC) and deployed the serverless infrastructure via Vercel for high availability.
+
+#### 🌤️ [Automated Weather Classification Research](https://github.com/yourusername/weather-classification)
+*   **Tech Stack:** Deep Learning, Transfer Learning, Python
+*   Co-authored published research (**DOI: 10.5281/zenodo.15014076.zenodo**) on a highly accurate deep-learning climate-image classifier leveraging Transfer Learning.
+*   Optimized the pre-trained neural network for efficient multi-class weather recognition, minimizing computational overhead while maintaining inference accuracy.
 
 ---
 
-### 📈 My GitHub Stats
+### 📜 Certifications & Continuous Learning
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
+*   **Technical Certifications in Programming & Data Science** | *NIIT*
+    *   *Key Focus Areas:* Python for Data Science, RDBMS Essentials & T-SQL, Object-Oriented Programming (C++), Java & C.
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@domain.com](mailto:your.email@domain.com)
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev) (Optional)
+### ⚡ Contact & Connect
+
+*   💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   🔭 **Current Goal:** Actively building and optimizing end-to-end distributed data systems and learning cloud data pipelines (AWS).
