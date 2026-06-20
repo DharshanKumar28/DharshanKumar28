@@ -17,30 +17,52 @@
 *   🤝 Actively taking on freelance engineering projects to architect end-to-end web and data solutions.
 ---
 
-### 🛠️ Industry Standard Tech Stack
+### 🛠️ Technical Skills & Ecosystem
 
-**Data Engineering & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Spark" />
+**Languages**
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=generic&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-**Backend Development**
-<p>
+**Data Engineering & Big Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="HDFS" />
+  <img src="https://img.shields.io/badge/Apache%20Zeppelin-E22A29?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Zeppelin" />
+  <img src="https://img.shields.io/badge/Distributed%20Architecture-404D59?style=for-the-badge&logo=diagram&logoColor=white" alt="Distributed Architecture" />
+</p>
+
+**Machine Learning & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=generic&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Transfer Learning" />
+  <img src="https://img.shields.io/badge/SHAP%20(XAI)-008080?style=for-the-badge&logo=insights&logoColor=white" alt="SHAP" />
+</p>
+
+**Backend, Web & Databases**
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Machine Learning & Security**
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+**Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Linux%2FUnix%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix CLI" />
 </p>
-
----
 
 ### 🚀 Featured Engineering Projects
 
