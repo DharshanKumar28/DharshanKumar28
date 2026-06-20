@@ -15,8 +15,6 @@
 *   ⚙️ I specialize in building **scalable distributed data pipelines** and robust **backend architectures**.
 *   🔭 Currently expanding my expertise into Cloud Data Engineering with the **AWS ecosystem** and building high-throughput applications.
 *   🤝 Actively taking on freelance engineering projects to architect end-to-end web and data solutions.
-*   ⚡ Fact: When I’m not optimizing query latencies, you can find me tweaking my PC hardware to monitor and maximize gaming performance.
-
 ---
 
 ### 🛠️ Industry Standard Tech Stack
@@ -58,13 +56,3 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical" alt="GitHub Streak" />
-</div>
