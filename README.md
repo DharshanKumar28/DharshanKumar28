@@ -1,53 +1,54 @@
-# Hey there! I'm an Aspiring Data Engineer 🚀
+# Data Engineer | Distributed Systems & Big Data Architecture
 
-A highly driven engineer focusing on distributed systems, large-scale data pipelines, and big data architecture. I love bridging the gap between massive data streams and high-throughput systems to build reliable, production-grade infrastructure.
+Results-driven Data Engineer specializing in building scalable distributed data pipelines, high-throughput backend infrastructure, and production-grade data modeling. Experienced in processing multi-million record datasets, optimizing query latencies, and implementing robust end-to-end data architectures.
+
 ---
 
-### 🛠️ Core Tech Stack
+### 💻 Core Technical Capabilities
 
-| Category | Technologies & Tools |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), SQL, C/C++, Java |
-| **Data Engineering & Big Data** | Apache Spark, HDFS, Apache Zeppelin, Distributed Architectures |
-| **Backend & Databases** | Node.js, Express.js, React, Flask, RESTful APIs, MongoDB, PostgreSQL |
-| **Machine Learning & AI** | Scikit-learn, XGBoost, SVC, ExtraTrees, Deep Learning, Transfer Learning, SHAP (XAI) |
-| **Developer Tools & DevOps** | Git, Docker, Vercel, Streamlit, Linux/Unix Command Line |
+| **Big Data & Data Engineering** | Apache Spark (PySpark), HDFS, Distributed Systems Architecture, ET/ELT Pipelines |
+| **Databases & Data Modeling** | PostgreSQL, MongoDB, Relational Data Modeling, Schema Optimization |
+| **Backend & Web Infrastructure** | Node.js, Express.js, Flask, RESTful APIs, Role-Based Access Control (RBAC) |
+| **Advanced Analytics & AI** | Scikit-learn, XGBoost, SVC, ExtraTrees, Deep Learning, Explainable AI (SHAP) |
+| **DevOps & Engineering Tools** | Linux/Unix CLI, Docker, Git Version Control, Vercel, Streamlit |
 
 ---
 
-### 📂 Key Projects
+### 🚀 Featured Engineering Projects
 
-#### 🚄 [Urban Mobility Analytics Pipeline](https://github.com/yourusername/urban-mobility-pipeline)
-*   **Tech Stack:** Apache Spark, HDFS, Apache Zeppelin, Distributed Architecture
-*   Engineered a distributed spatial-temporal analytics pipeline utilizing HDFS and Apache Spark to process a massive **4.5M+ instance dataset**, significantly reducing query latency.
-*   Deployed an interactive Apache Zeppelin dashboard to visualize real-time transit telemetry and extract actionable urban pattern insights.
+#### 📈 [Urban Mobility Analytics Pipeline](https://github.com/yourusername/urban-mobility-pipeline)
+* **Architecture:** Distributed Compute & Analytics Layer (Apache Spark, HDFS, Apache Zeppelin)
+* Engineered a distributed spatial-temporal data pipeline utilizing HDFS and Apache Spark to ingest and process a high-velocity **4.5M+ instance dataset**, significantly reducing query latency and optimizing data throughput.
+* Deployed automated compute workflows and integrated an interactive Apache Zeppelin dashboard to analyze real-time transit telemetry and extract actionable behavioral insights.
 
-#### 🛡️ [Phishing Detection System & XAI](https://github.com/yourusername/phishing-detection-xai)
-*   **Tech Stack:** Python, Flask, Stacking Ensemble Models, SHAP, Scikit-learn
-*   Benchmarked 14+ classifiers to engineer a Stacking Ensemble model trained on an 11k-instance dataset, achieving an exceptional **95.32% accuracy rate**.
-*   Integrated SHAP (Explainable AI) for model transparency and deployed the zero-latency classification model via a Flask web app for real-time threat telemetry.
+#### 🛡️ [Phishing Detection System & XAI Pipeline](https://github.com/yourusername/phishing-detection-xai)
+* **Architecture:** Predictive Pipeline & Explainable AI Infrastructure (Python, Flask, Stacking Ensembles, SHAP)
+* Benchmarked 14+ machine learning classifiers to architect a high-performance Stacking Ensemble model trained on an 11k-instance threat dataset, achieving a peak **95.32% classification accuracy**.
+* Integrated SHAP (Explainable AI) frameworks into the data pipeline for model transparency and engineered a zero-latency inference API via Flask for real-time threat telemetry processing.
 
 #### 🏗️ [Rivanomedia Backend Infrastructure](https://github.com/yourusername/rivanomedia-backend)
-*   **Tech Stack:** Node.js, Express.js, MongoDB, Vercel, RESTful APIs
-*   Engineered a secure backend architecture with custom RESTful APIs to centralize campaign data and optimize high-throughput routing.
-*   Designed a scalable MongoDB schema with role-based access control (RBAC) and deployed the serverless infrastructure via Vercel for high availability.
+* **Architecture:** High-Availability Enterprise Application Backend (Node.js, Express.js, MongoDB)
+* Designed and implemented a secure, modular backend architecture featuring custom RESTful APIs to centralize complex campaign data streams and optimize high-throughput routing matrices.
+* Modeled a highly scalable MongoDB schema incorporating robust Role-Based Access Control (RBAC) security frameworks; engineered serverless deployment flows via Vercel for high availability and fault tolerance.
 
-#### 🌤️ [Automated Weather Classification Research](https://github.com/yourusername/weather-classification)
-*   **Tech Stack:** Deep Learning, Transfer Learning, Python
-*   Co-authored published research (**DOI: 10.5281/zenodo.15014076.zenodo**) on a highly accurate deep-learning climate-image classifier leveraging Transfer Learning.
-*   Optimized the pre-trained neural network for efficient multi-class weather recognition, minimizing computational overhead while maintaining inference accuracy.
-
----
-
-### 📜 Certifications & Continuous Learning
-
-*   **Technical Certifications in Programming & Data Science** | *NIIT*
-    *   *Key Focus Areas:* Python for Data Science, RDBMS Essentials & T-SQL, Object-Oriented Programming (C++), Java & C.
+#### 🔬 [Automated Climate Intelligence Research](https://github.com/yourusername/weather-classification)
+* **Architecture:** Deep Learning & Transfer Learning Pipeline (Python, Deep Learning Frameworks)
+* Co-authored peer-reviewed, published technical research (**DOI: 10.5281/zenodo.15014076.zenodo**) detailing an optimized climate-image classifier leveraging advanced Transfer Learning methodologies.
+* Successfully tuned deep neural network layers to execute efficient multi-class weather recognition, drastically minimizing computational overhead during inference while maintaining high predictive accuracy.
 
 ---
 
-### ⚡ Contact & Connect
+### 📜 Professional Training & Certifications
 
-*   💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   🔭 **Current Goal:** Actively building and optimizing end-to-end distributed data systems and learning cloud data pipelines (AWS).
+* **Technical Certifications in Programming & Data Science** | *NIIT*
+  * *Focus Areas:* Core Database Systems & RDBMS Essentials, T-SQL Query Optimization, Object-Oriented System Design (C++), Java, and Foundations of Data Science.
+
+---
+
+### 🤝 Professional Alignment
+
+* 🔭 **Current Objectives:** Actively designing scalable data warehouse infrastructures and expanding expertise into Cloud Data Engineering (AWS ecosystem).
+* 💼 **Connect with me:** [LinkedIn Profile](https://linkedin.com/in/yourusername)
+* ✉️ **Enterprise Inquiries:** [your.email@example.com](mailto:your.email@example.com)
