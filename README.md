@@ -1,10 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Dharshan Kumar 👋</h1>
   <h3>Data Engineer | Distributed Systems & Backend Architecture</h3>
+  <p>Information Technology (B.Tech) Undergraduate at VIT Vellore</p>
 </div>
 
 <p align="center"> 
-  <a href="mailto:[dharshankumar005@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:dharshankumar005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/dharshan-kumar-324b0326a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 </p>
 
@@ -12,12 +13,14 @@
 
 ### 👨‍💻 About Me
 
-*   ⚙️ I specialize in building **scalable distributed data pipelines** and robust **backend architectures**.
-*   🔭 Currently expanding my expertise into Cloud Data Engineering with the **AWS ecosystem** and building high-throughput applications.
-*   🤝 Actively taking on freelance engineering projects to architect end-to-end web and data solutions.
+*   ⚙️ I specialize in building **scalable distributed data pipelines** and robust **full-stack web architectures**.
+*   ☁️ Currently expanding my expertise into Cloud Data Engineering within the **AWS ecosystem** and building high-throughput, cloud-native applications.
+*   🎓 Passionate about bridging the gap between raw data and impactful, user-facing applications through rigorous engineering.
+*   🚀 Constantly exploring new technologies, tackling complex architectural challenges, and building software that solves real-world problems.
+
 ---
 
-### 🛠️ Technical Skills & Ecosystem
+### 🛠️ Technical Ecosystem
 
 **Languages**
 <p align="left">
@@ -36,45 +39,45 @@
   <img src="https://img.shields.io/badge/Distributed%20Architecture-404D59?style=for-the-badge&logo=diagram&logoColor=white" alt="Distributed Architecture" />
 </p>
 
-**Machine Learning & AI**
+**Machine Learning & Explainable AI**
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=generic&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Transfer%20Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Transfer Learning" />
   <img src="https://img.shields.io/badge/SHAP%20(XAI)-008080?style=for-the-badge&logo=insights&logoColor=white" alt="SHAP" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
 </p>
 
-**Backend, Web & Databases**
+**Backend, Web & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**Developer Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Linux%2FUnix%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/Unix CLI" />
-</p>
+---
 
 ### 🚀 Featured Engineering Projects
 
 #### 🛡️ AI-Driven Phishing & Spam Detection System
-*   **Architecture:** Predictive Pipeline (Python, Scikit-learn, XGBoost, Streamlit)
-*   Benchmarked multiple classifiers (SVC, ExtraTrees, XGBoost) to engineer a high-performance threat detection ensemble model trained on a 5.5k-message dataset.
-*   Engineered a zero-latency inference API and interactive Streamlit web interface for real-time cybersecurity threat telemetry processing.
+*   **Architecture:** Python, Scikit-learn, XGBoost, DESlib, Streamlit
+*   Engineered a high-performance threat detection ensemble pipeline trained on a 5.5k-message dataset, achieving **95.30% generalization accuracy**.
+*   Implemented Dynamic Ensemble Selection (MLA, KNORAE) and resolved "black-box" limitations using Explainable AI frameworks (**SHAP & LIME**) to map feature impact.
+*   Deployed a zero-latency inference API alongside an interactive Streamlit web interface for real-time telemetry processing.
+
+#### ☁️ Cloud-Based Academic Management Portal
+*   **Architecture:** Python (FastAPI), React (Vite), AWS
+*   Developed a scalable, full-stack monorepo application designed to automate student attendance tracking and trigger instant disciplinary alerts.
+*   Architected for cloud-native deployment, utilizing REST API standards, Pydantic data validation schemas, and robust role-based access control (RBAC).
 
 #### 📦 Inventory & Catalog Management Backend
-*   **Architecture:** High-Availability Enterprise Web App (Node.js, Express, React, MongoDB)
-*   Designed and implemented a custom administrative backend from scratch to centralize inventory data streams and manage user uploads for a commercial jersey transport operation.
-*   Modeled a highly scalable MongoDB schema incorporating secure data routing for display and customer contact channels.
+*   **Architecture:** Node.js, Express, React, MongoDB (MERN Stack)
+*   Designed and implemented a custom administrative backend from scratch to centralize inventory data streams and manage user uploads for a commercial transport operation.
+*   Modeled a highly scalable MongoDB schema incorporating secure data routing for dynamic display and customer contact channels.
 
 ---
-
+<div align="center">
+  <i>Let's build something impactful. Feel free to reach out via email or connect on LinkedIn!</i>
+</div>
