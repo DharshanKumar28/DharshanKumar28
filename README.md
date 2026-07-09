@@ -72,10 +72,12 @@
 *   Developed a scalable, full-stack monorepo application designed to automate student attendance tracking and trigger instant disciplinary alerts.
 *   Architected for cloud-native deployment, utilizing REST API standards, Pydantic data validation schemas, and robust role-based access control (RBAC).
 
-#### 📦 Inventory & Catalog Management Backend
-*   **Architecture:** Node.js, Express, React, MongoDB (MERN Stack)
-*   Designed and implemented a custom administrative backend from scratch to centralize inventory data streams and manage user uploads for a commercial transport operation.
-*   Modeled a highly scalable MongoDB schema incorporating secure data routing for dynamic display and customer contact channels.
+####  Automated Weather Classification
+*   **Architecture:** Deep Learning, Transfer Learning
+*   Co-authored published research (DOI: 10.5281/zenodo.15014076.zenodo) on a highly accurate deep-learning
+climate-image classifier leveraging Transfer Learning.
+*   Optimized the pre-trained neural network for efficient multi-class weather recognition, minimizing computational
+overhead while maintaining inference accuracy.
 
 ---
 <div align="center">
