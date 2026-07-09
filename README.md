@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Dharshan Kumar 👋</h1>
   <h3>Data Engineer | Distributed Systems & Backend Architecture</h3>
-  <p>Information Technology (B.Tech) Undergraduate at VIT Vellore</p>
+  <p>B.Tech Information Technology Graduate from VIT Vellore</p>
 </div>
 
 <p align="center"> 
@@ -15,7 +15,7 @@
 
 *   ⚙️ I specialize in building **scalable distributed data pipelines** and robust **full-stack web architectures**.
 *   ☁️ Currently expanding my expertise into Cloud Data Engineering within the **AWS ecosystem** and building high-throughput, cloud-native applications.
-*   🎓 Passionate about bridging the gap between raw data and impactful, user-facing applications through rigorous engineering.
+*   🎓 Recent Information Technology graduate passionate about bridging the gap between raw data and impactful, user-facing applications through rigorous engineering.
 *   🚀 Constantly exploring new technologies, tackling complex architectural challenges, and building software that solves real-world problems.
 
 ---
