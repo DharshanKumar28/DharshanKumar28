@@ -84,7 +84,7 @@
 
 #### 🌤️ Automated Weather Classification
 *   **Architecture:** Deep Learning, Transfer Learning
-*   Co-authored published research ([DOI: 10.5281/zenodo.15014076.zenodo](https://doi.org/10.5281/zenodo.15014076.zenodo)) on a highly accurate deep-learning climate-image classifier leveraging Transfer Learning.
+*   Co-authored published research (https://cuestionesdefisioterapia.com/index.php/es/article/view/1795) on a highly accurate deep-learning climate-image classifier leveraging Transfer Learning.
 
 ---
 <div align="center">
