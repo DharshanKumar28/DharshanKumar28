@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Dharshan Kumar 👋</h1>
-  <h3>Data Engineer | Distributed Systems & Backend Architecture</h3>
+  <h3>Software Engineer | Data Engineering & QA Automation Specialist</h3>
   <p>B.Tech Information Technology Graduate from VIT Vellore</p>
 </div>
 
@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-*   ⚙️ I specialize in building **scalable distributed data pipelines** and robust **full-stack web architectures**.
-*   ☁️ Currently expanding my expertise into Cloud Data Engineering within the **AWS ecosystem** and building high-throughput, cloud-native applications.
-*   🎓 Recent Information Technology graduate passionate about bridging the gap between raw data and impactful, user-facing applications through rigorous engineering.
-*   🚀 Constantly exploring new technologies, tackling complex architectural challenges, and building software that solves real-world problems.
+*   ⚙️ **Dual Expertise:** I specialize in bridging the gap between high-volume data processing and end-to-end system reliability, designing scalable backend infrastructure while concurrently architecting automated testing frameworks.
+*   🏗️ **Data & Backend Architecture:** Experienced in engineering complex analytics pipelines utilizing Apache Spark and HDFS to process millions of records, alongside designing secure backend services using Node.js and PostgreSQL.
+*   🛡️ **Quality Assurance:** I develop and execute rigorous automated test cycles utilizing Robot Framework, Appium, and Python to systematically isolate defects and guarantee production-level stability prior to deployment.
+*   💻 **Environment:** Operating seamlessly within terminal-driven **Linux (Fedora)** environments, bringing a methodical, detail-oriented approach to complex engineering challenges.
 
 ---
 
@@ -39,12 +39,11 @@
   <img src="https://img.shields.io/badge/Distributed%20Architecture-404D59?style=for-the-badge&logo=diagram&logoColor=white" alt="Distributed Architecture" />
 </p>
 
-**Machine Learning & Explainable AI**
+**QA Automation & Testing**
 <p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-2C3E50?style=for-the-badge&logo=generic&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SHAP%20(XAI)-008080?style=for-the-badge&logo=insights&logoColor=white" alt="SHAP" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+  <img src="https://img.shields.io/badge/Appium-660066?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/Sikuli-00A9E0?style=for-the-badge&logo=generic&logoColor=white" alt="Sikuli" />
 </p>
 
 **Backend, Web & Cloud**
@@ -52,32 +51,40 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ---
 
+### 💼 Professional Experience
+
+**QA & Automation Testing** | *iTechnowiZ Solutions*
+* Engineered and maintained automated test scripts leveraging Robot Framework, Appium, and Python.
+* Executed end-to-end automated test cycles to systematically identify, document, and troubleshoot software defects, guaranteeing high application reliability prior to deployment.
+
+---
+
 ### 🚀 Featured Engineering Projects
+
+#### 📊 Urban Mobility Analytics Pipeline
+*   **Architecture:** Apache Spark, HDFS, Apache Zeppelin
+*   Engineered a big data processing pipeline to analyze and process a massive **4.5M+ instance dataset**, enabling large-scale urban mobility insights and high-volume data transformations.
 
 #### 🛡️ AI-Driven Phishing & Spam Detection System
 *   **Architecture:** Python, Scikit-learn, XGBoost, DESlib, Streamlit
 *   Engineered a high-performance threat detection ensemble pipeline trained on a 5.5k-message dataset, achieving **95.30% generalization accuracy**.
 *   Implemented Dynamic Ensemble Selection (MLA, KNORAE) and resolved "black-box" limitations using Explainable AI frameworks (**SHAP & LIME**) to map feature impact.
-*   Deployed a zero-latency inference API alongside an interactive Streamlit web interface for real-time telemetry processing.
 
 #### ☁️ Cloud-Based Academic Management Portal
 *   **Architecture:** Python (FastAPI), React (Vite), AWS
 *   Developed a scalable, full-stack monorepo application designed to automate student attendance tracking and trigger instant disciplinary alerts.
 *   Architected for cloud-native deployment, utilizing REST API standards, Pydantic data validation schemas, and robust role-based access control (RBAC).
 
-####  Automated Weather Classification
+#### 🌤️ Automated Weather Classification
 *   **Architecture:** Deep Learning, Transfer Learning
-*   Co-authored published research (DOI: 10.5281/zenodo.15014076.zenodo) on a highly accurate deep-learning
-climate-image classifier leveraging Transfer Learning.
-*   Optimized the pre-trained neural network for efficient multi-class weather recognition, minimizing computational
-overhead while maintaining inference accuracy.
+*   Co-authored published research ([DOI: 10.5281/zenodo.15014076.zenodo](https://doi.org/10.5281/zenodo.15014076.zenodo)) on a highly accurate deep-learning climate-image classifier leveraging Transfer Learning.
 
 ---
 <div align="center">
